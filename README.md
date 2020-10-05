@@ -7,7 +7,7 @@ We build City (WBC) is a open source and collaboration platform designed to make
 
 Please support our project and contribute to improve the platform! 
 
-###We develop the platform (amongst other things) in:###
+###We develop this platform (amongst other things) in:###
 * Python
 * Django
 * Angular.js
